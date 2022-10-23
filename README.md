@@ -2,7 +2,6 @@
   
 ### ☘💚 Hi there 🌳🌲
   ![Yunjjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjjeongjo&show_icons=true&theme=vue)
-
  
 </div>
 
